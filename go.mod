@@ -1,3 +1,3 @@
-module github.com/emaanmohamed/book-management
+module github.com/emaanmohamed/crud
 
 go 1.18
